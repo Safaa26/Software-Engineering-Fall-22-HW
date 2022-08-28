@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/529902359.svg)](https://zenodo.org/badge/latestdoi/529902359)
+
 # Software-Engineering-Fall-22-HW
 This repository is created for CSC 510 by group 32 for homework and assignments only.
 
