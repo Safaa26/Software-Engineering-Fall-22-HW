@@ -8,3 +8,4 @@ The contributors for this repo alphatebically are Chris Kastritis, Collin Riggs,
 Here's a list of requirements to access and run items on this repo on your private device: https://github.com/Safaa26/Software-Engineering-Fall-22-HW-Group32/blob/main/requirements.txt  
 
 [GitHub license]: ![MIT License](https://img.shields.io/github/license/Safaa26/Software-Engineering-Fall-22-HW-Group32)
+![badge](https://img.shields.io/github/workflow/status/Saffa26/Software-Engineering-Fall-22-HW-Group32/unit-test.yml)
