@@ -1,4 +1,4 @@
-![DOI](https://zenodo.org/badge/529902359.svg)](https://zenodo.org/badge/latestdoi/529902359)  
+[![DOI](https://zenodo.org/badge/529902359.svg)](https://zenodo.org/badge/latestdoi/529902359)    
 ![badge](https://img.shields.io/github/workflow/status/Safaa26/Software-Engineering-Fall-22-HW-Group32/unit-test.yml)
 
 
