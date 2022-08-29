@@ -31,4 +31,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: unit test
-        run: pytest code/__init__.py
+        run: pytest test/test.py
